@@ -1,0 +1,23 @@
+{
+  "name": "git-theorie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinzin10zin/gitbasics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinzin10zin/gitbasics/issues"
+  },
+  "homepage": "https://github.com/rinzin10zin/gitbasics#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
